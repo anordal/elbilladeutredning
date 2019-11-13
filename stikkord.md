@@ -10,7 +10,7 @@ Protokoller for lastbalansering og forbruksmåling
 -------------------------------------------------
 
 * OCPP er en etablert åpen standard som støtter alt vi strengt tatt trenger.
-  - De fleste produssenter (Ensto, Garo, Salto, Schneider, Zaptec) har ladere som støtter OCPP.
+  - De fleste produsenter (Ensto, Garo, Salto, Schneider, Zaptec) har ladere som støtter OCPP.
   - Ingen begrensning på antall ladere som kan tilknyttes.
   - Støtter ikke dynamisk fasebalansering (det er det visstnok bare Zaptec som har, ifølge dem selv).
   - Støtter statisk ladeprofil som en ukentlig timeplan.
