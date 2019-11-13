@@ -18,13 +18,16 @@ Protokoller for lastbalansering og forbruksmåling
   - Sentralenheten kan kjøpes fra flere produsenter eller som en skybasert tjeneste.
 * Salto og Garo tilbyr også lastbalansering basert på Modbus over RS485.
 
-400V TN
--------
+Innfase 400V TN?
+----------------
+
+(Dette punktet gjør seg gjeldende hvis vi enten *må* oppgradere strømnettet på noen måte,
+eller hvis vi *risikerer* å måtte gjøre det i nær framtid.)
 
 * IT-nett er av flere grunner suboptimialt for elbillading.
-  * Ladeplugg type 2 på IT-nett må kobles med en av faselederne på nøytral, noe som neppe er i tråd med spekken. Renault Zoe krever som kjent skilletrafo.
+  * Ladeplugg type 2 på IT-nett må kobles med en av faselederne på nøytral, noe som neppe er i tråd med spekken. Renault Zoe krever som kjent skilletrafo. TN-nett er utvilsomt mindre problematisk i lengden.[2]
   * Høyere spenning = høyere effekt.
-  * Merk at 230V like lett kan tas fra et 400V TN-nett, slik de gjør det i resten av Europa. Det er bare snakk om hvilket ledningspar man tar fra.
+  * Merk at 230V like lett kan tas fra et 400V TN-nett, slik de gjør det i resten av Europa (det er bare snakk om hvilket ledningspar man tar fra). Så det er ikke noe i veien for å ta med et eksisterende 230V-nett i en slik oppgradering.
 * Å oppgradere ladernes strømnett til 400V *i ettertid* vil kreve omkobling av hver lader.
 
 Ønsker vi f.eks. 3-fase-lading ute? Det vil kreve et TN-nett.
@@ -42,7 +45,10 @@ Skal disse
    - Med gulrot for oppgradering til lader som *kan* innlemmes?
 3. Utfases?
 
-En problemstilling her er skjevspenning.[1]
+Er vaskeristrømmen 1 eller 3 faser?
+Evt. skjevlast blir urettferdig for de som lastbalanseres på samme fase.
+Det er da man trenger dynamisk fasebalansering.
+Se også skjevspenning.[1]
 
 Lenker
 ------
