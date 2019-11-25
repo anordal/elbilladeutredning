@@ -25,7 +25,7 @@ Innfase 400V TN?
 eller hvis vi *risikerer* å måtte gjøre det i nær framtid.)
 
 * IT-nett er av flere grunner suboptimialt for elbillading.
-  * Ladeplugg type 2 på IT-nett må kobles med en av faselederne på nøytral, noe som neppe er i tråd med spekken. Renault Zoe krever som kjent skilletrafo. TN-nett er utvilsomt mindre problematisk i lengden.[2]
+  * Ladeplugg type 2 på IT-nett må kobles med en av faselederne på nøytral, noe som neppe er i tråd med spekken. TN-nett er utvilsomt mindre problematisk i lengden.[2]
   * Høyere spenning = høyere effekt.
   * Merk at 230V like lett kan tas fra et 400V TN-nett, slik de gjør det i resten av Europa (det er bare snakk om hvilket ledningspar man tar fra). Så det er ikke noe i veien for å ta med et eksisterende 230V-nett i en slik oppgradering.
 * Å oppgradere ladernes strømnett til 400V *i ettertid* vil kreve omkobling av hver lader.
@@ -40,7 +40,7 @@ Hva gjør vi med dagens ladere på vaskeristrøm?
 
 Skal disse
 1. Innlemmes i nytt kontrollsystem for lastbalansering og/eller forbruksmåling?
-   - Trenger å vite nøyaktig produktnavn på disse, så man kan finne ut hva de støtter.
+   - Dagens ladere er av type «Wallbox eMH1»[3], merket Salto og Abl. Dette er hjemmeladere som ikke er egnet for dynamisk styring og lastbelastning for mer enn 6 enheter/ladebokser. Det skulle bety at alle ladebokser av denne typen må byttes ut hvis de skal være en del av et felles anlegg for hele garasjen.
 2. Få fortsette å operere uregulert i overskuelig framtid?
    - Med gulrot for oppgradering til lader som *kan* innlemmes?
 3. Utfases?
@@ -55,3 +55,4 @@ Lenker
 
 * [1] [https://dev-hafslundnett.no/artikler/kunde/flere-detaljer-om-elbil-og-lading/LyVgmpv8eAwU2UawKeEGk](https://dev-hafslundnett.no/artikler/kunde/flere-detaljer-om-elbil-og-lading/LyVgmpv8eAwU2UawKeEGk)
 * [2] [http://publikasjoner.nve.no/eksternrapport/2019/eksternrapport2019_07.pdf](http://publikasjoner.nve.no/eksternrapport/2019/eksternrapport2019_07.pdf)
+* [3] [https://www.ablmobility.de/en/products/emh1.php](https://www.ablmobility.de/en/products/emh1.php)
