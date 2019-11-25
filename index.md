@@ -6,6 +6,27 @@ Etterspørsel
 
 Hvor mange vil ha elbillader, som funksjon av pris?
 
+Ledig kapasitet
+---------------
+
+Vi har 3 tavler.
+
+### Tavle 53
+
+> Total kapasitet er 3·500A.
+> Målt maksforbruk 3·160A.
+> Ledig kapasitet til elbil er 3·340A, 135kW, som utgjør 36 ladestasjoner på 16A 3,7kW.
+
+### Tavle 69
+
+> Inntakssikeringene er 315A.
+> Vi målte høyeste forbruk på 141A.
+> Da er det en maks ledig kapasitet på 174A, som blir 69kW.
+> Det kan da gi strøm til 18 ladestasjoner på 3,7kW.
+> Det kan installeres et styringssystem i hver tavle hvor all ledig kapasitet går til elbiler.
+
+![Forbruksmåling i tavle 69](bilete/tavle69.png "Forbruksmåling i tavle 69")
+
 Protokoller for lastbalansering og forbruksmåling
 -------------------------------------------------
 
