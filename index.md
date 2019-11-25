@@ -50,6 +50,27 @@ Evt. skjevlast blir urettferdig for de som lastbalanseres på samme fase.
 Det er da man trenger dynamisk fasebalansering.
 Se også skjevspenning.[1]
 
+Finansiering
+------------
+
+Siden vi allerede har nok strøm til alle garasjeplasser fra vaskeristrømmen (hvis det er riktig),
+trenger vi i det hele tatt finansiere noe annet enn dynamisk styring og lastbalanse???
+Så kan styret kreve at nye ladebokser er tilpasset dette,
+og at garasjeeierene selv betaler for kabler og tilkobling, slik det er gjort til nå?
+Dette var bare en tanke rundt hva som kan kreves av klargjøring for lading av el-bil.
+Kirsti (red.anm) ser det ikke som hensiktsmessig med et utall av kabler i garasjen
+og har noen spørsmål om finansiering nedenfor!
+
+1. Hvordan skal klargjøring for ev. montering av egne ladebokser finansieres? Vi bør få noen prisoverslag før vi drøfter dette.
+   - Skal garasjeeiere spleise på utgiftene til dette? Kan vi i så fall kreve at ev.
+garasjeeiere som ikke ønsker klargjort for ladestasjon på sin garasjeplass, skal være
+med på finansieringen nå? Er det i så fall rettferdig at garasjeeierne skal være med å
+betale for klargjøring av lading ute når det kommer?
+   - Skal borettslaget finansiere all klargjøring i garasjene? Er det i så fall rettferdig at de som ikke har garasjeplass skal være med å betale dette?
+2. Hvordan skal ev. bytte av ladebokser for allerede monterte ladere finansieres?
+   - Må finansieres av borettslaget som helhet, da det er satt opp i samsvar med krav fra borettslaget.
+   - Delfinansieres av garasjeeier. Kostnader ved montering av dynamisk styring og lastbalanse er det rimelig at de som allerede har ladeboks, betaler sin andel av.
+
 Lenker
 ------
 
