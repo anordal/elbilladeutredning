@@ -1,5 +1,61 @@
-Problemstillinger
-=================
+ 1. Innledning
+==============
+
+I beboermøtet april 2019 inviterte styret interesserte beboere til å delta i ei gruppe
+for å utrede hvordan borettslaget kan løse det økende behovet for ladeplasser or el-bil.
+
+Følgende beboere meldte seg til arbeidet:
+
+(Red.anm: I nettutgaven av dokumentet er etternavn er foreløpig utelatt av personvernshensyn.)
+
+* Kirsti M.
+* Andeas Nordal
+* Trond T.
+* Paul H.
+
+Styret oppnevnte Øyvind R. til å lede arbeidet.
+
+Arbeidsgruppa har hatt xxx møter. Det er innhentet dokumentasjon som formelt rammeverk,
+måling av kapasitet, kostnader og behov.
+
+Gruppa skisserer tre mulige modeller for at alle med parkeringsrett i parkeringshus kan tilbys
+lading av el-biler i parkeringshus. I tillegg skisseres mulig løsninger for lading på
+uteparkeringsplassen.
+
+Modeller for lading i parkeringshus:
+
+1. xxx
+2. xxx
+3. xxx
+
+Skisse løsning for lading på uteparkeringsplassen:
+
+ 2. Mandat
+==========
+
+1. Arbeidsgruppa skal lage en oversikt over muligheter for å tilby lading av El-kjøretøy
+2. Arbeidsgruppa skal presentere mulige løsninger for lading av El-kjøretøy i
+borettslagets parkeringsanlegg
+3. Arbeidsgruppa skal undersøke muligheter for ekstern finansiering av ladeløsninger
+4. Arbeidsgruppa skal foreslå modeller for beboer/brukerbetaling av ladeløsninger
+5. Arbeidsgruppa leverer sitt forslag til styret før beboermøtet våren 2020
+
+I styremøte presiseres det at mandatet gjelder el-biler, og at spørmålet om ladeplasser
+utendørs muligens bør utredes særskilt.
+
+ 3. Formelle rammer
+===================
+
+- Lover og forskrifter
+- Vedtekter og husordensregler
+- Kapasitet
+- Finansiering
+
+ 4. Gjeldende ordning
+=====================
+
+ 5. Problemstillinger
+=====================
 
 Etterspørsel
 ------------
@@ -93,7 +149,7 @@ betale for klargjøring av lading ute når det kommer?
    - Delfinansieres av garasjeeier. Kostnader ved montering av dynamisk styring og lastbalanse er det rimelig at de som allerede har ladeboks, betaler sin andel av.
 
 Lenker
-------
+======
 
 * [1] [https://dev-hafslundnett.no/artikler/kunde/flere-detaljer-om-elbil-og-lading/LyVgmpv8eAwU2UawKeEGk](https://dev-hafslundnett.no/artikler/kunde/flere-detaljer-om-elbil-og-lading/LyVgmpv8eAwU2UawKeEGk)
 * [2] [http://publikasjoner.nve.no/eksternrapport/2019/eksternrapport2019_07.pdf](http://publikasjoner.nve.no/eksternrapport/2019/eksternrapport2019_07.pdf)
