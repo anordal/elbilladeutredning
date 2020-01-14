@@ -127,6 +127,57 @@ Evt. skjevlast blir urettferdig for de som lastbalanseres på samme fase.
 Det er da man trenger dynamisk fasebalansering.
 Se også skjevspenning.[1]
 
+Leverandører av ladeinfrastruktur
+---------------------------------
+
+Fra «Bergheims Ladepunkter»:[4]
+
+* Salto (OCPP): https://www.salto.no
+* Ensto (OCPP): https://www.ensto.no
+* Schneider (OCPP) https://www.schneider.no
+* Zaptec (Proprietær) https://www.zaptec.no
+* Garo (OCPP) https://www.garo.no
+* EV-boks (Proprietær) https://www.ev-box.com
+
+Leverandører av betalingstjenester
+----------------------------------
+
+Mange av ladeleverandørene ovenfor legger opp til at borettslaget besørger avlesing og kostnadsfordelig selv.
+Zaptec er intet unntak:[5]
+
+> Borettslag og sameier kan kostnadsfritt og enkelt hente ut ladehistorikk fra ZAPTEC Portal
+> og fakturere den enkelte beboer som har brukt strøm til å lade elbilen.
+> Dette er enkleste og rimeligste løsning for rettferdig fordeling av strømforbruket.
+
+Borettslaget står her fritt til å sette priser etter egen fantasi.
+Det andre alternativet er å sette bort jobben til en «betalingstjeneste».[5]
+Da er tilgjengelige priskriterier begrenset til de måledata som er tilgjengelige i ladehistorikken
+og hva den enkelte tjenesten legger opp til – altså fortsatt stort rom for kreativitet.
+For eksempel skriver Charge365:[6]
+
+> Løsningen gjør det mulig å motta betaling for strømforbruk, tidsforbruk, månedsgebyr,
+> forskjellige priser på døgnet, forskjellige priser i samme lading
+> f.eks 2 timer gratis, så kr 30,- pr. time, flåtestyring, evt. delbetaling av ladeutstyr mm.
+
+I tillegg kommer fakturahonoraret som betalingstjenesten skal ha til seg selv.
+Dette honoraret er det ikke mange som oppgir, men de som gjør det er ikke billige.
+Her kan det med fordel innhentes flere tilbud,
+men foreløpig inntrykk er at dette ville utgjøre en betydelig driftskostnad,
+og at fakturaforfatterskap må være en gjevt betalt deltidsjobb, selv uten automatisering.
+
+* Hafslund Ladeklar: 79 kr/mnd (ikke helt sammenlignbart, da de tar hele investeringa på ladeinfrastruktur)
+* SmartCharge: 20 kr/mnd + 10% av fakturagrunnlaget[7]
+* PlugPay: 15% av fakturagrunnlaget[8]
+
+![Fakturahonorar](bilete/fakturahonorar.png "Fakturahonorar")
+
+Diagrammet stopper ved 1350 kr, da dette antas å være en praktisk
+grense for hvor mye penger det er mulig å lade for per måned.
+Det er det det koster å henge på laderen 12 timer i døgnet, 7 dager i uka
+med en ladeeffekt på 3,7 kW og en strømpris på 1 kr/kWt:
+
+    1 kr/kWt · 3,7 kW · 12 t/døgn · 30,44 døgn/måned ≈ 1351,5 kr/måned
+
 Finansiering
 ------------
 
@@ -154,3 +205,8 @@ Lenker
 * [1] [https://dev-hafslundnett.no/artikler/kunde/flere-detaljer-om-elbil-og-lading/LyVgmpv8eAwU2UawKeEGk](https://dev-hafslundnett.no/artikler/kunde/flere-detaljer-om-elbil-og-lading/LyVgmpv8eAwU2UawKeEGk)
 * [2] [http://publikasjoner.nve.no/eksternrapport/2019/eksternrapport2019_07.pdf](http://publikasjoner.nve.no/eksternrapport/2019/eksternrapport2019_07.pdf)
 * [3] [https://www.ablmobility.de/en/products/emh1.php](https://www.ablmobility.de/en/products/emh1.php)
+* [4] [https://www.miljokommune.no/Global/Klima/Webinarer/Ladepunkter%20Bergland.pdf]
+* [5] [https://zaptec.com/betalingstjenester/]
+* [6] [https://www.charge365.no/betalingslosning-ladelosning-elbil]
+* [7] [https://meshcrafts.com/smartcharge-zaptec/?lang=no]
+* [8] [https://www.plugpay.no/eiere-av-zaptec-anlegg/]
