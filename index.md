@@ -165,6 +165,11 @@ Her kan det med fordel innhentes flere tilbud,
 men foreløpig inntrykk er at dette ville utgjøre en betydelig driftskostnad,
 og at fakturaforfatterskap må være en gjevt betalt deltidsjobb, selv uten automatisering.
 
+Hvis dette kan tenkes å bli billigere, kan det være et poeng at betalingstjenesten
+ikke er bundet til den investerte ladeinfrastrukturen – konkurranseutsetting.
+
+Tilbud:
+
 * Hafslund Ladeklar: 79 kr/mnd (ikke helt sammenlignbart, da de tar hele investeringa på ladeinfrastruktur)
 * SmartCharge: 20 kr/mnd + 10% av fakturagrunnlaget[7]
 * PlugPay: 15% av fakturagrunnlaget[8]
@@ -177,6 +182,9 @@ Det er det det koster å henge på laderen 12 timer i døgnet, 7 dager i uka
 med en ladeeffekt på 3,7 kW og en strømpris på 1 kr/kWt:
 
     1 kr/kWt · 3,7 kW · 12 t/døgn · 30,44 døgn/måned ≈ 1351,5 kr/måned
+
+Med dette forbruket kan man dagpendle Oslo – Lillehammer (hvis man riktignok også lader i andre enden).
+Poenget er å antyde hvilken ende av diagrammet de fleste kommer til å ligge i.
 
 Finansiering
 ------------
