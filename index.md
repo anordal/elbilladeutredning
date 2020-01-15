@@ -213,8 +213,8 @@ Lenker
 * [1] [https://dev-hafslundnett.no/artikler/kunde/flere-detaljer-om-elbil-og-lading/LyVgmpv8eAwU2UawKeEGk](https://dev-hafslundnett.no/artikler/kunde/flere-detaljer-om-elbil-og-lading/LyVgmpv8eAwU2UawKeEGk)
 * [2] [http://publikasjoner.nve.no/eksternrapport/2019/eksternrapport2019_07.pdf](http://publikasjoner.nve.no/eksternrapport/2019/eksternrapport2019_07.pdf)
 * [3] [https://www.ablmobility.de/en/products/emh1.php](https://www.ablmobility.de/en/products/emh1.php)
-* [4] [https://www.miljokommune.no/Global/Klima/Webinarer/Ladepunkter%20Bergland.pdf]
-* [5] [https://zaptec.com/betalingstjenester/]
-* [6] [https://www.charge365.no/betalingslosning-ladelosning-elbil]
-* [7] [https://meshcrafts.com/smartcharge-zaptec/?lang=no]
-* [8] [https://www.plugpay.no/eiere-av-zaptec-anlegg/]
+* [4] [https://www.miljokommune.no/Global/Klima/Webinarer/Ladepunkter%20Bergland.pdf](https://www.miljokommune.no/Global/Klima/Webinarer/Ladepunkter%20Bergland.pdf)
+* [5] [https://zaptec.com/betalingstjenester/](https://zaptec.com/betalingstjenester/)
+* [6] [https://www.charge365.no/betalingslosning-ladelosning-elbil](https://www.charge365.no/betalingslosning-ladelosning-elbil)
+* [7] [https://meshcrafts.com/smartcharge-zaptec/?lang=no](https://meshcrafts.com/smartcharge-zaptec/?lang=no)
+* [8] [https://www.plugpay.no/eiere-av-zaptec-anlegg/](https://www.plugpay.no/eiere-av-zaptec-anlegg/)
