@@ -189,6 +189,17 @@ Poenget er å antyde hvilken ende av diagrammet de fleste kommer til å ligge i.
 Finansiering
 ------------
 
+Arbeidsgruppa foreslår som rettferdighetsveiledning at
+felles investeringer betales av de som får glede av dem.
+
+Basert på dette prinsippet foreslås følgende nyanseringer:
+
+* Ladere som monteres på plasser som følger en andelsleilighet anses som en investering i andelsleiligheten (på linje med vannklosett) som dessuten vil være frivillig. ⇒ Betales av andelseier.
+* Infrastrukturoppgradering, være seg av garasjeanlegg eller parkeringsplass: I den grad dette er en langsiktig investering, med håp om å tilfredsstille ønsket kapasitet for ladeplasser i overskuelig framtid, er dette en felles investering i det respektive området. ⇒ Fordeles på berørte plasser (selvsagt med få unntak).
+  - Hvis eksisterende ladere skal skiftes ut, er disse plassene intet unntak. Det vil være beklagelig at disse andelseierne skal betale for noe de har kjøpt før; like beklagelig som at løsninga tydeligvis var for kortsiktig, slik at disse sitter med eksklusiv ladetilgang i dag.
+
+---
+
 Siden vi allerede har nok strøm til alle garasjeplasser fra vaskeristrømmen (hvis det er riktig),
 trenger vi i det hele tatt finansiere noe annet enn dynamisk styring og lastbalanse???
 Så kan styret kreve at nye ladebokser er tilpasset dette,
