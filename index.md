@@ -73,6 +73,8 @@ Vi har 3 tavler.
 > Målt maksforbruk 3·160A.
 > Ledig kapasitet til elbil er 3·340A, 135kW, som utgjør 36 ladestasjoner på 16A 3,7kW.
 
+![Forbruksmåling i tavle 53](bilete/tavle53.png "Forbruksmåling i tavle 53")
+
 ### Tavle 61
 
 > Inntakssikeringene er 315A.
@@ -81,7 +83,7 @@ Vi har 3 tavler.
 > Det kan da gi strøm til 18 ladestasjoner på 3,7kW.
 > Det kan installeres et styringssystem i hver tavle hvor all ledig kapasitet går til elbiler.
 
-![Forbruksmåling i tavle 69](bilete/tavle69.png "Forbruksmåling i tavle 69")
+![Forbruksmåling i tavle 61](bilete/tavle69.png "Forbruksmåling i tavle 61")
 
 Protokoller for lastbalansering og forbruksmåling
 -------------------------------------------------
