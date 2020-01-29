@@ -207,9 +207,16 @@ felles investeringer betales av de som får glede av dem.
 
 Basert på dette prinsippet foreslås følgende nyanseringer:
 
-* Ladere som monteres på plasser som følger en andelsleilighet anses som en investering i andelsleiligheten (på linje med vannklosett) som dessuten vil være frivillig. ⇒ Betales av andelseier.
+* Ladere som monteres på plasser som følger en andelsleilighet anses som en investering i andelsleiligheten (på linje med vannklosett) som dessuten vil være frivillig. ⇒ Eies og betales av andelseier.
 * Infrastrukturoppgradering, være seg av garasjeanlegg eller parkeringsplass: I den grad dette er en langsiktig investering, med håp om å tilfredsstille ønsket kapasitet for ladeplasser i overskuelig framtid, er dette en felles investering i det respektive området. ⇒ Fordeles på berørte plasser (selvsagt med få unntak).
-  - Hvis eksisterende ladere skal skiftes ut, er disse plassene intet unntak. Det vil være beklagelig at disse andelseierne skal betale for noe de har kjøpt før; like beklagelig som at løsninga tydeligvis var for kortsiktig, slik at disse sitter med eksklusiv ladetilgang i dag.
+  - Hvis eksisterende ladere skal skiftes ut, er disse plassene intet unntak. Det vil være beklagelig om disse andelseierne skal betale for noe de har kjøpt før; like beklagelig som om løsninga ikke er ansett langsiktig nok til å tilbys flere.
+
+Det må forventes at garasjeeierne har ulik tilbøyelighet til tilbudet, og at denne avhenger av pris:
+Noen vil ganske sikkert si ja,
+noen vil ganske sikkert si nei,
+og noen (kanskje de fleste) vil vurdere å ta det som en investering.
+Ingen vil ta det som en investering hvis bare de som skal ha lader skal dra lasset (likt Hafslund Ladeklar Alt. 2)
+eller med en betalingstjeneste som er dyr å eie.
 
 ---
 
