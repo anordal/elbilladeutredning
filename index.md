@@ -137,9 +137,14 @@ Fra «Bergheims Ladepunkter»:[4]
 * Salto (OCPP): https://www.salto.no
 * Ensto (OCPP): https://www.ensto.no
 * Schneider (OCPP) https://www.schneider.no
-* Zaptec (Proprietær) https://www.zaptec.no
+* Zaptec (Proprietær, OCCP) https://www.zaptec.no
 * Garo (OCPP) https://www.garo.no
 * EV-boks (Proprietær) https://www.ev-box.com
+
+I tillegg:
+
+* Easee https://easee.no
+* Proxll https://gronn-teknologi.no/e-mobility/
 
 Leverandører av betalingstjenester
 ----------------------------------
