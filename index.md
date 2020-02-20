@@ -169,11 +169,12 @@ ikke er bundet til den investerte ladeinfrastrukturen – konkurranseutsetting.
 
 Tilbud:
 
-* Hafslund Ladeklar: 79 kr/mnd (ikke helt sammenlignbart, da de tar hele investeringa på ladeinfrastruktur)
+* Hafslund Ladeklar Alt 2: 69 kr/mnd
 * SmartCharge: 20 kr/mnd + 10% av fakturagrunnlaget[7]
 * PlugPay: 15% av fakturagrunnlaget[8]
+* [Borettslad](https://borettslad.no): 29 kr/faktura, fakturerer kun over 50 kr
 
-![Fakturahonorar](bilete/fakturahonorar.png "Fakturahonorar")
+![Fakturahonorar](bilete/fakturahonorar_2.png "Fakturahonorar")
 
 Diagrammet stopper ved 1350 kr, da dette antas å være en praktisk
 grense for hvor mye penger det er mulig å lade for per måned.
@@ -184,17 +185,6 @@ med en ladeeffekt på 3,7 kW og en strømpris på 1 kr/kWt:
 
 Med dette forbruket kan man dagpendle Oslo – Lillehammer (hvis man riktignok også lader i andre enden).
 Poenget er å antyde hvilken ende av diagrammet de fleste kommer til å ligge i.
-
-### Spørsmål til Hafslund Ladeklar
-
-La oss få begge tilbud, men *Alternativ 1 (borettslaget tar investeringa)* er mest sammenlignbart med andre tilbydere.
-
-Generelle spørsmål:
-
-* Hvilke ladere?
-* Betalingstjeneste: Noen form for fakturapåslag (i tillegg til månedsleie for Alternativ 2)? Konkurrentene smører tjukt på, se plottet ovenfor.
-* Bindingstid: Eier vi anlegget, og står fritt til å velge betalingstjeneste etter en viss tid? Ladeklar.nos prisberegning gir inntrykk av at svaret er ja på Alternativ 1, og nei på Alternativ 2. Det siste er jo litt ukult.
-* Kan eksisterende Salto-ladere innlemmes (hvis disse kan oppgraderes til OCPP 1.6)? Skal gå an hvis de baserer seg på Zaptec.
 
 Finansiering
 ------------

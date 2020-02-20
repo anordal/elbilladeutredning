@@ -3,18 +3,19 @@ import matplotlib.pyplot as plt
 import subprocess
 import os,sys
 
-def linplot(f, label, color):
-    x = [0, 1350]
-    y = [f(x) for x in x]
+def plutteplott(x, f, label, color):
+	y = [f(x) for x in x]
+	axis.plot(x, y, label=label, color=color, linewidth=1, marker='o', markersize=2)
 
-    axis.plot(x, y, label=label, color=color, linewidth=1, marker='o', markersize=2)
+def linplot(f, label, color):
+	plutteplott([0, 1350], f, label, color)
 
 fig = plt.figure(figsize=(10, 10))
 axis = fig.add_subplot(1, 1, 1)
 axis.set_title('Fakturahonorar')
 
 def ladeklar(x):
-	return 79
+	return 69
 
 # https://meshcrafts.com/smartcharge-zaptec/?lang=no
 def smartcharge(x):
@@ -24,9 +25,17 @@ def smartcharge(x):
 def plugpay(x):
 	return .15 * x
 
-linplot(ladeklar, 'ladeklar', 'red')
+# https://borettslad.no/
+def borettslad(x):
+	if x < 50:
+		return x * 29/50
+	else:
+		return 29
+
+linplot(ladeklar, 'ladeklar alt2', 'red')
 linplot(smartcharge, 'smartcharge', 'blue')
 linplot(plugpay, 'plugpay', 'violet')
+plutteplott([0, 50, 1350], borettslad, 'borettslad', '#28b800')
 axis.set_xlabel('kr')
 axis.set_ylabel('kr')
 axis.legend()
