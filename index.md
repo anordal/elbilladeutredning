@@ -2,7 +2,7 @@
 ==============
 
 I beboermøtet april 2019 inviterte styret interesserte beboere til å delta i ei gruppe
-for å utrede hvordan borettslaget kan løse det økende behovet for ladeplasser or el-bil.
+for å utrede hvordan borettslaget kan løse det økende behovet for ladeplasser for el-bil.
 
 Følgende beboere meldte seg til arbeidet:
 
@@ -15,20 +15,12 @@ Følgende beboere meldte seg til arbeidet:
 
 Styret oppnevnte Øyvind R. til å lede arbeidet.
 
-Arbeidsgruppa har hatt xxx møter. Det er innhentet dokumentasjon som formelt rammeverk,
+Arbeidsgruppa har hatt ti møter. Det er innhentet dokumentasjon som formelt rammeverk,
 måling av kapasitet, kostnader og behov.
 
 Gruppa skisserer tre mulige modeller for at alle med parkeringsrett i parkeringshus kan tilbys
 lading av el-biler i parkeringshus. I tillegg skisseres mulig løsninger for lading på
 uteparkeringsplassen.
-
-Modeller for lading i parkeringshus:
-
-1. xxx
-2. xxx
-3. xxx
-
-Skisse løsning for lading på uteparkeringsplassen:
 
  2. Mandat
 ==========
@@ -149,7 +141,7 @@ I tillegg:
 Leverandører av betalingstjenester
 ----------------------------------
 
-Mange av ladeleverandørene ovenfor legger opp til at borettslaget besørger avlesing og kostnadsfordelig selv.
+Mange av ladeleverandørene ovenfor legger opp til at borettslaget besørger avlesing og kostnadsfordeling selv.
 Zaptec er intet unntak:[5]
 
 > Borettslag og sameier kan kostnadsfritt og enkelt hente ut ladehistorikk fra ZAPTEC Portal
